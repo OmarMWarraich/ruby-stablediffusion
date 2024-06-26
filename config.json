@@ -1,0 +1,9 @@
+{
+  "gemName": "ruby-stableDiffusion",
+  "moduleName": "RStableDiffusionAI",
+  "gemVersion": "0.1.0",
+  "gemAuthor": "Omar Warraich",
+  "gemAuthorEmail": "",
+  "gemHomePage": "https://github.com/OmarMWarraich/ruby-stablediffusion",
+  "gemLicense": "MIT"
+}
