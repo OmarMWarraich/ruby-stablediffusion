@@ -125,8 +125,8 @@ module RStableDiffusionAI
     attr_accessor :force_ending_format
 
     def initialize
-      @scheme = 'https'
-      @host = 'artsynth.woms.live'
+      @scheme = 'http'
+      @host = 'localhost:7860'
       @base_path = '/'
       @api_key = {}
       @api_key_prefix = {}
